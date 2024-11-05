@@ -54,6 +54,12 @@ body {
     width: 16px;
 }
 
+.search button:hover {
+    background: rgba(202, 255, 252, 0.72);
+    transition: .8s ease;
+
+}
+
 .weather-icon {
     width: 170px;
     margin-top: 30px;
